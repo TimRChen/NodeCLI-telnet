@@ -1,0 +1,19 @@
+{
+  "name": "tcp-chat",
+  "version": "1.0.0",
+  "description": "the first TCP server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimRChen/NodeCLI-telnet.git"
+  },
+  "author": "TimRChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimRChen/NodeCLI-telnet/issues"
+  },
+  "homepage": "https://github.com/TimRChen/NodeCLI-telnet#readme"
+}
